@@ -1,2 +1,3 @@
-# C
-C Programs Code
+# C++ Program to Create Periodic table
+
+
